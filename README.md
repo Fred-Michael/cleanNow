@@ -1,4 +1,3 @@
-# cleanNow
-CleanNow landing homepage
+# CleanNow landing homepage
 
-## Responsive design of a Cleaning Services .psd mockup
+### Responsive design of a Cleaning Services .psd mockup
